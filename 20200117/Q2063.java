@@ -15,4 +15,6 @@ public class Q2063 {
 		System.out.println(nums[N / 2]);
 	}
 
+
+
 }
