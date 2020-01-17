@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N1545 {
+public class Q1545 {
 
 	public static void main(String[] args) {
 
